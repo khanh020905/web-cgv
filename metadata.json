@@ -1,0 +1,6 @@
+{
+  "name": "CGV Cinema Concept",
+  "description": "A cinematic movie booking landing page featuring 3D poster walls, smooth GSAP scrolling, and interactive seat maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
